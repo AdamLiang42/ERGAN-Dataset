@@ -1,4 +1,5 @@
-# SynResLoadPattern
+# ERGAN-Dataset
+[![Paper](https://img.shields.io/badge/Paper-IEEE_TIM-blue)](https://ieeexplore.ieee.org/document/10716706) [![arXiv](https://img.shields.io/badge/Paper-arXiv-B31B1B)](https://arxiv.org/abs/2410.15379)
 
 Here we introduce the *`ERGAN-Dataset`*, which includes synthetic residential load patterns. These patterns closely emulate the temporal dependencies and distribution features present in genuine training data. It offers a broad and varied collection of load patterns, making it a prime resource for both researchers and practitioners. It's designed for in-depth analysis, simulation, and study in the field of residential electricity consumption.
 
@@ -86,9 +87,27 @@ Inside the [ergan_dataset](https://github.com/AdamLiang42/ERGAN-Dataset/tree/mai
 Please choose the appropriate folder based on whether you're interested in the outputs of individual models or the collective results.
 
 
-## Publications:
-<!-- Welcome to cite our publications on this project. -->
-TBD
+## 📝 Citation & Paper
+If you find this dataset or framework useful, please cite our paper:
+
+**X. Liang, Z. Wang and H. Wang, "Synthetic Data Generation for Residential Load Patterns via Recurrent GAN and Ensemble Method," in *IEEE Transactions on Instrumentation and Measurement*, vol. 73, pp. 1-13, 2024.**
+
+- **IEEE Xplore:** [View Paper](https://ieeexplore.ieee.org/document/10716706)
+- **ArXiv:** [arXiv:2410.15379](https://arxiv.org/abs/2410.15379)
+
+**BibTeX:**
+```bibtex
+@ARTICLE{10716706,
+  author={Liang, Xinyu and Wang, Ziheng and Wang, Hao},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Synthetic Data Generation for Residential Load Patterns via Recurrent GAN and Ensemble Method}, 
+  year={2024},
+  volume={73},
+  number={},
+  pages={1-12},
+  keywords={Load modeling;Generative adversarial networks;Data models;Synthetic data;Home appliances;Electricity;Data privacy;Complexity theory;Renewable energy sources;Clustering algorithms;Generative adversarial network (GAN);residential electricity load;synthetic load generation},
+  doi={10.1109/TIM.2024.3480225}}
+```
 
 
 ## Acknowledgments:

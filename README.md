@@ -90,7 +90,7 @@ Please choose the appropriate folder based on whether you're interested in the o
 ## 📝 Citation & Paper
 If you find this dataset or framework useful, please cite our paper:
 
-**X. Liang, Z. Wang and H. Wang, "Synthetic Data Generation for Residential Load Patterns via Recurrent GAN and Ensemble Method," in *IEEE Transactions on Instrumentation and Measurement*, vol. 73, pp. 1-13, 2024.**
+**X. Liang, Z. Wang and H. Wang, "Synthetic Data Generation for Residential Load Patterns via Recurrent GAN and Ensemble Method," in *IEEE Transactions on Instrumentation and Measurement*, vol. 73, pp. 1-12, 2024.**
 
 - **IEEE Xplore:** [View Paper](https://ieeexplore.ieee.org/document/10716706)
 - **ArXiv:** [arXiv:2410.15379](https://arxiv.org/abs/2410.15379)
